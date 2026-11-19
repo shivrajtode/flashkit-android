@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Covers common Android devices in fastboot/ADB mode -->
+    <usb-device vendor-id="0x18d1" /> <!-- Google -->
+    <usb-device vendor-id="0x04e8" /> <!-- Samsung -->
+    <usb-device vendor-id="0x2717" /> <!-- Xiaomi -->
+    <usb-device vendor-id="0x22d9" /> <!-- OnePlus/OPPO -->
+    <usb-device vendor-id="0x2a70" /> <!-- OnePlus -->
+    <usb-device vendor-id="0x0bb4" /> <!-- HTC -->
+    <usb-device vendor-id="0x1004" /> <!-- LG -->
+    <usb-device vendor-id="0x12d1" /> <!-- Huawei -->
+    <usb-device vendor-id="0x0fce" /> <!-- Sony -->
+    <usb-device vendor-id="0x19d2" /> <!-- ZTE -->
+    <usb-device vendor-id="0x2916" /> <!-- Android (generic) -->
+    <usb-device vendor-id="0x0e8d" /> <!-- MediaTek -->
+    <usb-device vendor-id="0x05c6" /> <!-- Qualcomm -->
+    <usb-device vendor-id="0x1949" /> <!-- Lenovo/Motorola -->
+    <usb-device vendor-id="0x2b4c" /> <!-- Realme -->
+    <usb-device vendor-id="0x2a96" /> <!-- vivo -->
+    <usb-device vendor-id="0x1ebf" /> <!-- Nothing -->
+</resources>
